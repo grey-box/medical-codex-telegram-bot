@@ -1,0 +1,5 @@
+python-dotenv~=1.0.1
+python-telegram-bot~=21.4
+Requests~=2.32.3
+transliterate~=1.10.2
+pydantic~=2.8.2
